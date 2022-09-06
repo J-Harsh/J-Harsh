@@ -1,16 +1,29 @@
-### Hi there 👋
+Hello, folks! 
 
-<!--
-**J-Harsh/J-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am an open source contributor and I love to take part in hackathons.
+
+My blogs site: Blogs
+
+My Hackathons projects Portfolio: Projects
+
+I am inspired by quote "If you want to shine like a sun, first burn like a sun." -A. P. J. Abdul Kalam🙏
+
+🌟 STAR THE REPOSITORIES IF YOU LIKE 🌟
+
+🥇 Projects open for contributions.
+
+💻 Projects	🌟 Stars	🍴 Forks	🐛 Issues	🔔 Pull Requests	👨‍💻 Language
+🚀 Lane Detection (OpenCV)	Stars	Forks	Issues	Pull Requests	Language
+💻 Vehicle Speed Estimator	Stars	Forks	Issues	Pull Requests	Language
+👨 Face-X	Stars	Forks	Issues	Pull Requests	Language
+
+
+
+
+⚡ Fun fact about me: ✨ I love coding+eating+repeating✨
+Connect with me! 
+ 
+
