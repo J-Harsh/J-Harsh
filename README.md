@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I play Chess and read about psychology and philosophy**
 - 
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://user-images.githubusercontent.com/56508036/188636634-e3155e2a-4a49-4d4f-b2df-9170c81911bc.gif)
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
