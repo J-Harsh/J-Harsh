@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **React and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jainharsh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](My Portfolio)
 
 - 💬 Ask me about **React and JavaScript**
 
