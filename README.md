@@ -6,17 +6,17 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on **Next.Js**
+- 🔭 I’m currently working on **GO**
 
-- 👯 I’m looking to collaborate on **React and Javascript**
+- 👯 I’m looking to collaborate on **Python or Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jainharsh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jainharsh-portfolio.netlify.app/) (very old, yet to be updated)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **Java, Python and TypeScript**
 
 - 📫 How to reach me **harshjain172001@gmail.com**
 
-- ⚡ Fun fact **I play Chess and read about psychology and philosophy**
+- ⚡ Fun fact **I play Chess and read about psychology or philosophy**
 
 
 
