@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Sofware Developer from India</h3>
+<h5 align="center">Aspiring to be a problem solver and a sofrware engineer</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-harsh&label=Profile%20views&color=0e75b6&style=flat" alt="j-harsh" /> </p>
 
