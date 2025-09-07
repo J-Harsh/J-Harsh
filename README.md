@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
-<h3 align="center">A passionate Sofware Developer from India</h3>
-<h5 align="center">Aspiring to be a problem solver and a sofrware engineer</h5>
+<h3 align="center">A Fullstack Sofware Developer from India</h3>
+<h5 align="center">Aspiring to be better everyday</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-harsh&label=Profile%20views&color=0e75b6&style=flat" alt="j-harsh" /> </p>
 
@@ -9,21 +9,21 @@
 
 - 🔭 I’m currently working on **GO**
 
-- 👯 I’m looking to collaborate on **Python or Next.JS**
+- 👯 I’m looking to collaborate on **Java or Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jainharsh-portfolio.netlify.app/) (very old, yet to be updated)
 
-- 💬 Ask me about **Java, Python and TypeScript**
+- 💬 Ask me about **Java, Go and TypeScript**
 
 - 📫 How to reach me **harshjain172001@gmail.com**
 
-- ⚡ Fun fact **I play Chess and read about psychology or philosophy**
+- ⚡ Fun fact **I play Chess and a lot of video games **
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/j-harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh2001" height="30" width="40" /></a>
 </p>
 
 
