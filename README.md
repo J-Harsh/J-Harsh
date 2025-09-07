@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java or Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jainharsh-portfolio.netlify.app/) (very old, yet to be updated)
+- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jharsh.me) (very old, yet to be updated)
 
 - 💬 Ask me about **Java, Go and TypeScript**
 
