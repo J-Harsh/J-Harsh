@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **GO**
 
-- 👯 I’m looking to collaborate on **Java or Next.JS**
+- 👯 I’m looking to collaborate on **Java , Go or Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://jainharsh-portfolio.netlify.app/](https://jharsh.me) (very old, yet to be updated)
+- 👨‍💻 All of my projects are available at [my portfolio](https://jharsh.me) (very old, yet to be updated)
 
 - 💬 Ask me about **Java, Go and TypeScript**
 
