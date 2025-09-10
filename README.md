@@ -11,8 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Java , Go or Next.JS**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://jharsh.me) (very old, yet to be updated)
-
+- 👨‍💻 All of my projects are available at [my portfolio](https://jharsh.me)
 - 💬 Ask me about **Java, Go and TypeScript**
 
 - 📫 How to reach me **harshjain172001@gmail.com**
